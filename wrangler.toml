@@ -1,0 +1,8 @@
+name = "d1-comments"
+main = "src/index.ts"
+compatibility_date = "2023-04-25"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "d1-comments"
+database_id = "d0175ebe-d312-4b21-84f6-c0488d834118"
